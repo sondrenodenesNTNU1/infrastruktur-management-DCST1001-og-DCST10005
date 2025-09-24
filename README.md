@@ -1,12 +1,12 @@
 # infrastruktur-management-DCST1001-og-DCST10005
 Virtuelt miljø satt opp ved hjelp av Open-stack (skyhigh) og Azure
 
-# Bedrifts-infrastruktur og Sikkerhet
+
 **Praktisk erfaring med IT-infrastruktur, sky-styring og automatisert deployment**
 
 ## Oversikt
 Praktiske prosjekter fra **DCST1005 Infrastruktur: sikre grunntjenester** som dekker on-premises bedriftsinfrastruktur og moderne sky-løsninger.
-
+Virtuelt miljø satt opp ved hjelp av Open-stack (skyhigh) og Azure
 
 ## **Gjennomførte Prosjekter**
 
