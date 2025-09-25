@@ -1,5 +1,7 @@
 # infrastruktur-management-DCST1001-og-DCST10005
 **Praktisk erfaring med IT-infrastruktur, sky-styring og automatisert deployment**
+**Lenke til oppdaterte powershell-komandoer fra forelser: https://github.com/torivarm/dcst1005**
+
 
 ## Oversikt
 Praktiske prosjekter fra **DCST1005 Infrastruktur: sikre grunntjenester** som dekker on-premises bedriftsinfrastruktur og moderne sky-løsninger.
